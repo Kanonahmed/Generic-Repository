@@ -1,0 +1,15 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe.config
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.pdb
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.pdb
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe.config
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.exe
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.pdb
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.pdb
+\\172.16.0.17\dlds\fun\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.csprojResolveAssemblyReference.cache
+F:\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe.config
+F:\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.exe
+F:\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.pdb
